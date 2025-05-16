@@ -86,4 +86,6 @@ Feel free to add more models to `eval/query_model.py` and evaluate them on the M
 
 ## Contact
 
-*During the ACL2025 review process, due to the double-blind policy, we are unable to provide our contact information.*
+Han Zhou(Dataset Maintainer): [me@micdz.cn](mailto:me@micdz.cn), [micdz@hust.edu.cn](mailto:micdz@hust.edu.cn)
+Qitong Xu: [esoox@hust.edu.cn](mailto:esoox@hust.edu.cn)
+Yiheng Dong: [yiheng@hust.edu.cn](yiheng@hust.edu.cn)
