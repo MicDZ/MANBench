@@ -2,7 +2,7 @@
 
 This repo contains evaluation code for the paper "MANBench: Is Your Multimodal Model Smarter than Human?"
 
-[**🌐 Homepage**](/) | [**🤗 Dataset**](https://huggingface.co/datasets/MANBench/MANBench)
+[**🌐 Homepage**](https://www.micdz.cn/MANBench) | [**🤗 Dataset**](https://huggingface.co/datasets/MANBench/MANBench)
 
 ## 🔔News
 * 🔥[2025-04-29]: We added the scores and outputs for GPT-o1 and InternVL2.5-78B-MPO
