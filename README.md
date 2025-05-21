@@ -5,8 +5,9 @@ This repo contains evaluation code for the paper "MANBench: Is Your Multimodal M
 [**🌐 Homepage**](https://www.micdz.cn/MANBench) | [**🤗 Dataset**](https://huggingface.co/datasets/MANBench/MANBench)
 
 ## 🔔News
-* 🔥[2025-04-29]: We added the scores and outputs for GPT-o1 and InternVL2.5-78B-MPO
-* 🔥[2025-02-09]: MANBench is now available on [**🤗 Hugging Face**](https://huggingface.co/datasets/MANBench/MANBench)
+* 🔥[2025-05-16]: MANBench is accepted to [**ACL'25 Findings**]
+* [2025-04-29]: We added the scores and outputs for GPT-o1 and InternVL2.5-78B-MPO
+* [2025-02-09]: MANBench is now available on [**🤗 Hugging Face**](https://huggingface.co/datasets/MANBench/MANBench)
 
 
 ## Introduction
