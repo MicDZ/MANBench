@@ -1,6 +1,6 @@
 # MANBench
 
-This repo contains evaluation code for the paper "MANBench: Is Your Multimodal Model Smarter than Human?" [ACL'25 Findings]
+This repo contains evaluation code for the paper "MANBench: Is Your Multimodal Model Smarter than Human?" [**ACL'25 Findings**]
 
 [**🌐 Homepage**](https://www.micdz.cn/MANBench) | [**🤗 Dataset**](https://huggingface.co/datasets/MANBench/MANBench)
 
