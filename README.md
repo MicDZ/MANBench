@@ -2,8 +2,7 @@
 
 This repo contains evaluation code for the paper "MANBench: Is Your Multimodal Model Smarter than Human?" [**ACL'25 Findings**]
 
-[**🌐 Homepage**](https://www.micdz.cn/MANBench) | [**🤗 Dataset**](https://huggingface.co/datasets/MANBench/MANBench)
-
+[**🌐 Homepage**](https://www.micdz.cn/MANBench) | [**🤗 Dataset**](https://huggingface.co/datasets/MANBench/MANBench) | [**📑arXiv**](https://arxiv.org/abs/2506.11080) 
 ## 🔔News
 * 🔥[2025-05-16]: MANBench is accepted to [**ACL'25 Findings**]
 * [2025-04-29]: We added the scores and outputs for GPT-o1 and InternVL2.5-78B-MPO
